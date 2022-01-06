@@ -1,0 +1,7 @@
+#include "cover_draw.h"
+
+void draw_cover() {
+    fb_set(0, 0, 640, 480, cover);
+    fb_string(40, 60, 3, 0, 640, "MagicTower");
+    fb_string(40, 108, 2, 0, 640, "FPGA Ver1.0" );
+}

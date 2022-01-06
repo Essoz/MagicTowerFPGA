@@ -1,0 +1,7 @@
+#include "vga/vga-helper.h"
+
+
+void draw_table();
+void draw_press_l();
+void draw_floor();
+void draw_all_text();

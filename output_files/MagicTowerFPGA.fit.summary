@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jan 03 20:05:52 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : MagicTowerFPGA
+Top-level Entity Name : top_level
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 22,674 / 114,480 ( 20 % )
+    Total combinational functions : 19,392 / 114,480 ( 17 % )
+    Dedicated logic registers : 9,133 / 114,480 ( 8 % )
+Total registers : 9252
+Total pins : 215 / 529 ( 41 % )
+Total virtual pins : 0
+Total memory bits : 1,701,364 / 3,981,312 ( 43 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 3 / 4 ( 75 % )

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 03 20:03:37 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : MagicTowerFPGA
+Top-level Entity Name : top_level
+Family : Cyclone IV E
+Total logic elements : 25,639
+    Total combinational functions : 19,363
+    Dedicated logic registers : 9,202
+Total registers : 9202
+Total pins : 215
+Total virtual pins : 0
+Total memory bits : 1,701,364
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 3

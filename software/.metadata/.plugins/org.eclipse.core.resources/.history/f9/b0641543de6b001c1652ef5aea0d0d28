@@ -1,0 +1,5 @@
+#include "cover.h"
+
+void draw_cover() {
+    fb_set(0, 0, 640, 480, cover);
+}

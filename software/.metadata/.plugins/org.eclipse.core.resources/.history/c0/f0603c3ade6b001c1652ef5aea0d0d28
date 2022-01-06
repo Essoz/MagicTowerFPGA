@@ -1,0 +1,6 @@
+#ifndef _COVER_H_
+#define _COVER_H_
+
+extern unsigned char font_data_en[640*480];
+
+#endif

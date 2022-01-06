@@ -1,0 +1,9 @@
+15:06:42 **** Incremental Build of configuration Nios II for project main_control ****
+make all 
+Info: Building ../main_control_bsp/
+C:/Programs/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../main_control_bsp/
+[BSP build complete]
+[main_control build complete]
+
+15:06:43 Build Finished (took 1s.147ms)
+
